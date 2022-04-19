@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartographerShap", "CartographerShap\CartographerShap.csproj", "{DFA15249-2229-40F1-A229-C1C9BE39BAED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA15249-2229-40F1-A229-C1C9BE39BAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA15249-2229-40F1-A229-C1C9BE39BAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA15249-2229-40F1-A229-C1C9BE39BAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA15249-2229-40F1-A229-C1C9BE39BAED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4457258-5D86-4E93-BC98-B0A9655AD462}
+	EndGlobalSection
+EndGlobal
