@@ -12,4 +12,19 @@
     <PackageReference Include="Google.Protobuf.Tools" Version="3.20.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="common\internals\testing\" />
+    <Folder Include="common\proto\" />
+    <Folder Include="io\internals\" />
+    <Folder Include="mapping\internals\map2D\" />
+    <Folder Include="mapping\internals\map3D\" />
+    <Folder Include="mapping\map3D\" />
+    <Folder Include="mapping\map2D\" />
+    <Folder Include="mapping\proto\scan_matching\" />
+    <Folder Include="mapping\proto\pose_graph\" />
+    <Folder Include="sensor\internals\" />
+    <Folder Include="sensor\proto\" />
+    <Folder Include="transform\proto\" />
+  </ItemGroup>
+
 </Project>
